@@ -1,1 +1,5 @@
 # miniGPT
+-----------------------------------------------------------------------------------------------------------------------------
+This project is my first personal project
+Thanks to Andrej Karpathy for Neural Networks: Zero to Hero
+hehe
